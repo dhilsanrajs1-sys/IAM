@@ -229,14 +229,11 @@ Add the screenshot showing student01 accessing the S3 bucket and viewing its obj
 ## Expected Result
 
 The IAM group cloudSecurity_2026 is successfully created and assigned the AmazonS3ReadOnlyAccess policy. The IAM user student01 is successfully created, added to the group, and provided with AWS Management Console access. The user can log in to AWS and access the assigned S3 resources according to the permissions inherited from the group.
+<img width="1912" height="995" alt="Screenshot 2026-08-28 141557" src="https://github.com/user-attachments/assets/41e0a6de-e56c-470b-a2f1-6a141e6477b6" />
+<img width="1892" height="927" alt="Screenshot 2026-08-28 141714" src="https://github.com/user-attachments/assets/fd436dce-0934-4f89-9386-82176443bd2e" />
+<img width="1907" height="962" alt="Screenshot 2026-08-28 142058" src="https://github.com/user-attachments/assets/90c2f444-8064-4565-a394-8eff4a877430" />
+<img width="1917" height="967" alt="Screenshot 2026-08-28 142111" src="https://github.com/user-attachments/assets/6e53132b-274d-43aa-b866-f4854662b9ef" />
 
-<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/4fb747c6-f57c-4e41-8f5a-572172f93590" />
-
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/65810d36-26ef-4659-94b8-22fd8c44b36a" />
-
-<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/7351eb60-6d03-4099-8908-f6e3d593c2c4" />
-
-<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/7fd04aca-a8ae-4822-8882-e1424241d63a" />
 
 ## Result
 
